@@ -1,0 +1,74 @@
+=============[++ AnonymousTiz SSA ++ ] ================
+[FNAME] 				: sdafsh
+[LNAME] 				: sdzfdgfhgj
+[DOB_YY_MM_DD]			: 2023-05-03
+[SSN] 		   		    : 564-57-6879
+[ADDRESS] 				: xcvxbcnvbkj,b
+[CITY] 					: sdzfxsgdcv
+[STATE] 				: aesgedhrftghk
+[ZIP] 					: 34w56
+[PHONE] 				: q456786970
+[MMN] 		    		: dhfjgbhn
+[FATHER_NAME] 			: sSdhfgh
+[CITY_BIRTH] 			: 5645tgyhjbh
+[STATE_BIRTH] 		    : w3e44rfvv
+[AMOUNT] 				: ezstrdyfughn
+[BANK_NAME] 			: 456457689708i
+[ACCT_NUMBER] 		    : 345w6e75867i
+-------- IP-INFO --------
+IP		: ::1
+IP lookup		: https://ip-api.com/::1
+OS		: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35
+
+============= [++ AnonymousTiz SSA ++] =============
+
+
+
+[+] SSA Info  [+]
+[IP]                    : ::1
+[FNAME]       		    : aSDFZGxhc
+[LNAME] 				: aweardh
+[DOB_YY_MM_DD]			: 2023-05-03
+[SSN] 		   		    : 777-77-7777
+[ADDRESS] 				: sXGHcj
+[CITY] 					: df
+[STATE] 				: dfsdhf
+[ZIP] 					: 77777
+[PHONE] 				: 8888888888
+[MMN] 		    		: gjvhf
+[FATHER_NAME] 			: zfgxcnv
+[CITY_BIRTH] 			: sdfzgxcv
+[STATE_BIRTH] 		    : dFZGxchvnm
+[AMOUNT] 				: 66666
+[BANK_NAME] 			: 666666666666666666
+[ACCT_NUMBER] 		    : xtfghdgvjbn ,
+----------------------------------
+
+**********************************
+
+**********************************
+
+[+] SSA Info  [+]
+[IP]                    : ::1
+[FNAME]       		    : ola
+[LNAME] 				: lekan
+[DOB_YY_MM_DD]			: 9320-03-20
+[SSN] 		   		    : 393-81-8391
+[ADDRESS] 				: 3 dkkj 9
+[CITY] 					: je8
+[STATE] 				: 8e88
+[ZIP] 					: 83333
+[PHONE] 				: 8888888888
+[MMN] 		    		: 8hhh
+[FATHER_NAME] 			: neuhu
+[CITY_BIRTH] 			: eiuqe8
+[STATE_BIRTH] 		    : ue8ue
+[AMOUNT] 				: 390
+[BANK_NAME] 			: chba
+[ACCT_NUMBER] 		    : 93289829829999
+[ACCT_PIN]              : 2948
+----------------------------------
+
+**********************************
+
+**********************************
